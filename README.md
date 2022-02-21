@@ -1,9 +1,5 @@
 # TradingView Indicators and Strategies (pinescript)
 
-###### GitHub: https://github.com/Heavy91/TradingView_Indicators
-
-###### TradingView: https://www.tradingview.com/u/Heavy91/#published-scripts
-
 ## If you like my work, you can support me with a donation:
 **€:** http://pinescripts.fetchapp.com/sell/d15d4740
 
