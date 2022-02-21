@@ -1,13 +1,3 @@
-# TradingView Indicators and Strategies (pinescript)
-
-## If you like my work, you can support me with a donation:
-**€:** http://pinescripts.fetchapp.com/sell/d15d4740
-
-**$:** http://pinescripts.fetchapp.com/sell/0f9153a5
-
-**BTC:** bc1q8e4wav3t55plp6ar0xc7gh4uqrzlxc7g97ywrg
-
-**LTC:** ltc1qagcys3pyluke3xdlq94qx8p7fd3z3mj2w32grs
 
 -------------------------------------------------------------------------------------
 
